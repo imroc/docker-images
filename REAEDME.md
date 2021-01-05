@@ -1,0 +1,3 @@
+## Supported tags
+
+* latest
